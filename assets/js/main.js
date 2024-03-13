@@ -60,7 +60,7 @@ function updateProfessionalExperience(profileData){
          <li> 
             <h3 class="title">${experience.nome}</h3>
             <p class="period">${experience.period}</p>
-            <p class="text"><${experience.description}/p>
+            <p class="text">${experience.description}</p>
         </li>
         `
     }).join('')
