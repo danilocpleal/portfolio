@@ -85,18 +85,9 @@
     ]
   },
   "languages": [
-    {
-      "nome": "Português",
-      "nivel": "(Nativo)"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "(Intermediário)"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "(Básico)"
-    }
+    "Português (Nativo)",
+    "Inglês (Intermediário)",
+    "Espanhol (Básico)"
   ],
   "educacao": [
     {
