@@ -79,6 +79,20 @@ function updateAcademicEducation(profileData){
     }).join('')
 }
 
+function updateCertifications(profileData){
+    const certifications = document.getElementById('profile.certifications')
+    
+    certifications.innerHTML = profileData.certifications.map(certificados => {
+        return `
+         <li> 
+            <a href="${certificados.url}">
+                <img src="${certificados.logo}" alt="${certificados.nome}" title="${certificados.nome}">
+            </a> 
+        </li>
+        `
+    }).join('')    
+}
+
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
@@ -88,4 +102,5 @@ function updateAcademicEducation(profileData){
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
     updateAcademicEducation(profileData)
+    updateCertifications(profileData)
 })()

@@ -103,6 +103,38 @@
       "period": "02/1998 - 12/2001"
     }  
   ],
+  "certifications": [
+    {
+      "nome": "PSM I",
+      "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/PSMI.png",
+      "url": "https://www.scrum.org/certificates/681255"
+    },
+    {
+      "nome": "PSPO I",
+      "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/PSPOI.png",
+      "url": "https://www.scrum.org/certificates/724400"
+    },
+    {
+      "nome": "PSK I",
+      "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/PSKI.png",
+      "url": "https://www.scrum.org/certificates/707276"
+    },
+    {
+      "nome": "KMP I / TKP ",
+      "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/TKP.png",
+      "url": "https://edu.kanban.university/users/danilo-cesar-pinto-leal"
+    },
+    {
+      "nome": "OKR",
+      "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/OKR.png",
+      "url": "https://www.credly.com/badges/f4ac39b1-8738-493d-803e-c61d517c44f4?source=linked_in_profile"
+    },
+    {
+      "nome": "Management 3.0 - Fundamentals Online Workshop ",
+      "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/MGMFund.png",
+      "url": "https://management30.com/badges/danilo-leal-408140042625d57186f785/"
+    }
+  ],  
   "portfolio": [
     {
       "nome": "Criando o seu Portfólio - Curso DIO",
