@@ -1,12 +1,7 @@
-.skills {
-    display: flex;
-    flex-direction: column;
-}
-
-.skills .tools ul {
+.academic ul {
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;    
     margin: 0;
@@ -14,16 +9,16 @@
     list-style: none;
 }
 
-.skills .tools ul li img {
+.academic li a img {
     max-width: 50px;
     margin: .5rem;
 }
 
-@media screen and (min-width: 765px) {
+/* @media screen and (min-width: 765px) {
 
-    .skills {
+    .academic {
         display: grid;
         grid-template-columns: 1fr 1fr;
     }   
-}
+} */
 

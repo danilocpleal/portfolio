@@ -85,7 +85,7 @@ function updateCertifications(profileData){
     certifications.innerHTML = profileData.certifications.map(certificados => {
         return `
          <li> 
-            <a href="${certificados.url}">
+            <a href="${certificados.url}" target="_blanck" class="tools">
                 <img src="${certificados.logo}" alt="${certificados.nome}" title="${certificados.nome}">
             </a> 
         </li>
