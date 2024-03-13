@@ -151,14 +151,22 @@
   ],
   "portfolio": [
     {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+      "nome": "Criando o seu Portfólio - Curso DIO",
+      "gitHub": "https://github.com/danilocpleal/portfolio",
+      "certificado": "",
+      "git": true
     },
     {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "nome": "Criando uma homepage com CSS, HTML5 e JavaScript - Spiderman Multiverso - Curso DIO",
+      "gitHub": "https://github.com/danilocpleal/spider-man-dio-multiverso",
+      "certificado": "https://www.dio.me/certificate/6LJJ5ZV1",
+      "git": true
+    },
+    {
+      "nome": "Criando uma POKEDEX com JavaScript - Curso DIO",
+      "gitHub": "https://github.com/danilocpleal/js-developer-pokedex",
+      "certificado": "https://www.dio.me/certificate/D6ETRXY0",
+      "git": true
     }
   ],
   "experiencias": [
