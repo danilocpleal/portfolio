@@ -173,27 +173,12 @@
     {
       "nome": "Sênior Developer Desktop / TOTVS ",
       "period": "11/2021 - até o momento",
-      "description": "Atuo como analista desenvolvedor sênior no Segmento Supermercados para os produtos da família Consinco, utilizando ferramenta de Desenvolvimento OpenText (Centura Builder) e banco de dados Oracle. Compor a equipe de projetos, utilizando a metodologia Scrum/Kanban para análise de viabilidade e acompanhamento do desenvolvimento de novas rotinas e soluções para os softwares citados acima. Atuar como PO Proxy em auxílio ao PO da squad, auxiliando na organização e priorização do backlog, contato e negociação com clientes, auxílio e liderança nas demandas junto à equipe."
+      "description": "Atuo como analista desenvolvedor sênior no Segmento Supermercados para os produtos da família Consinco, \n utilizando ferramenta de Desenvolvimento OpenText (Centura Builder) e banco de dados Oracle. \n Compor a equipe de projetos, utilizando a metodologia Scrum/Kanban para análise de viabilidade e \n acompanhamento do desenvolvimento de novas rotinas e soluções para os softwares citados acima. \n Atuar como PO Proxy em auxílio ao PO da squad, auxiliando na organização e priorização do \n backlog, contato e negociação com clientes, auxílio e liderança nas demandas junto à equipe."
     },
     {
       "nome": "Coordenador de conversões / Siplan ",
       "period": "04/2021 - 11/2021",
-      "description": "Reestruturar e organizar os processos e atividades desempenhadas pela equipe de conversões. Realizar feedback à equipe de forma constante. Promover a metodologia de Gestão Ágil SCRUM. Realizar os eventos e artefatos pertinentes a metodologia SCRUM. Acompanhar e analisar o resultado das conversões com possíveis problema."
-    },
-    {
-      "nome": "Sênior Developer Desktop / Siplan ",
-      "period": "07/2020 - 11/2021",
-      "description": "Atuar como analista desenvolvedor para softwares voltados para a gestão de Cartórios de Registro de Imóveis, Tabelionato de Notas e Pessoas Jurídicas, utilizando ferramenta de Desenvolvimento Delphi 7 e banco de dados Firebird. Compor a equipe de sustentação, onde o foco é a resolução de problemas em curto tempo de análise e desenvolvimento para os clientes dos softwares citados acima. Compor a equipe de projetos, utilizando a metodologia Scrum para análise de viabilidade e acompanhamento do desenvolvimento de novas rotinas e soluções para os softwares citados acima."
-    },
-    {
-      "nome": "Tech Lead / Siplan ",
-      "period": "05/2020 - 11/2021",
-      "description": "Orientar a equipe de desenvolvedores quais as melhores e quais os possíveis problemas devem ser corrigidos nos produtos, baseado nos chamados abertos no software 0800Net. Realizar feedback à equipe de forma constante. Promover e executar a metodologia de Gestão Ágil SCRUM em parceria com o Product Owner. Acompanhar e analisar os chamados realizados pelos clientes no software 0800Net. Analisar, priorizar e ordenar junto ao Product Owner dos produtos Registros de Imóveis / Títulos e Documentos quais deverão ser os itens que comporão os Backlogs Sprint. Participar das reuniões semanais com os diretores para acompanhamento dos produtos. Responsável pelo Wiki (Blog de documentação dos produtos). Responsável pela análise de qualidade de códigos enviado pelo SONAR Cube."
-    },
-    {
-      "nome": "Pleno Developer Desktop / Siplan ",
-      "period": "07/2019 - 05/2020",
-      "description": "Atuar como analista desenvolvedor para softwares voltados para a gestão de Cartórios de Registro de Imóveis, Tabelionato de Notas e Pessoas Jurídicas, utilizando ferramenta de Desenvolvimento Delphi 7 e banco de dados Firebird."
+      "description": "Reestruturar e organizar os processos e atividades desempenhadas pela equipe de conversões. Realizar \n feedback à equipe de forma constante. Promover a metodologia de Gestão Ágil SCRUM. \n Realizar os eventos e artefatos pertinentes a metodologia SCRUM. \n Acompanhar e analisar o resultado das conversões com possíveis problema."
     }
   ]
 }
