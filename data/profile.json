@@ -54,6 +54,10 @@
       {
         "nome": "Firebird",
         "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/firebird.png"
+      },
+      {
+        "nome": "Jira",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/jira.png"
       }
     ],
     "softSkills": [
