@@ -47,7 +47,8 @@ function updatePortfolio(profileData) {
          <li> 
             <h3 ${project.github ? 'class="title github"' : ''}>${project.nome}</h3>
             <a href="${project.url}" target="_blanck">${project.url}</a>
-        </li>`
+        </li>
+        `
     }).join('')
 }
 
