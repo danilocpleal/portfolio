@@ -171,7 +171,7 @@
   ],
   "professionalExperience": [
     {
-      "nome": "Sênior Developer Desktop / TOTVS ",
+      "nome": "Software Developer Sênior / TOTVS ",
       "period": "11/2021 - até o momento",
       "description": "Atuo como analista desenvolvedor sênior no Segmento Supermercados para os produtos da família Consinco, utilizando ferramenta de Desenvolvimento OpenText (Centura Builder) e banco de dados Oracle. Compor a equipe de projetos, utilizando a metodologia Scrum/Kanban para análise de viabilidade e acompanhamento do desenvolvimento de novas rotinas e soluções para os softwares citados acima. Atuar como PO Proxy em auxílio ao PO da squad, auxiliando na organização e priorização do backlog, contato e negociação com clientes, auxílio e liderança nas demandas junto à equipe."
     },
@@ -181,7 +181,7 @@
       "description": "Reestruturar e organizar os processos e atividades desempenhadas pela equipe de conversões. Realizar feedback à equipe de forma constante. Promover a metodologia de Gestão Ágil SCRUM. Realizar os eventos e artefatos pertinentes a metodologia SCRUM. Acompanhar e analisar o resultado das conversões com possíveis problema."
     },
     {
-      "nome": "Sênior Developer Desktop / Siplan ",
+      "nome": "Software Developer Sênior Desktop / Siplan ",
       "period": "07/2020 - 11/2021",
       "description": "Atuar como analista desenvolvedor para softwares voltados para a gestão de Cartórios de Registro de Imóveis, Tabelionato de Notas e Pessoas Jurídicas, utilizando ferramenta de Desenvolvimento Delphi 7 e banco de dados Firebird. Compor a equipe de sustentação, onde o foco é a resolução de problemas em curto tempo de análise e desenvolvimento para os clientes dos softwares citados acima. Compor a equipe de projetos, utilizando a metodologia Scrum para análise de viabilidade e acompanhamento do desenvolvimento de novas rotinas e soluções para os softwares citados acima."
     },
@@ -191,9 +191,39 @@
       "description": "Orientar a equipe de desenvolvedores quais as melhores e quais os possíveis problemas devem ser corrigidos nos produtos, baseado nos chamados abertos no software 0800Net. Realizar feedback à equipe de forma constante. Promover e executar a metodologia de Gestão Ágil SCRUM em parceria com o Product Owner. Acompanhar e analisar os chamados realizados pelos clientes no software 0800Net. Analisar, priorizar e ordenar junto ao Product Owner dos produtos Registros de Imóveis / Títulos e Documentos quais deverão ser os itens que comporão os Backlogs Sprint. Participar das reuniões semanais com os diretores para acompanhamento dos produtos. Responsável pelo Wiki (Blog de documentação dos produtos). Responsável pela análise de qualidade de códigos enviado pelo SONAR Cube."
     },
     {
-      "nome": "Pleno Developer Desktop / Siplan ",
+      "nome": "Software Developer Pleno Desktop / Siplan ",
       "period": "07/2019 - 05/2020",
       "description": "Atuar como analista desenvolvedor para softwares voltados para a gestão de Cartórios de Registro de Imóveis, Tabelionato de Notas e Pessoas Jurídicas, utilizando ferramenta de Desenvolvimento Delphi 7 e banco de dados Firebird."
+    },
+    {
+      "nome": "Coordenador de Soluções Educacionais / SENAC São Paulo ",
+      "period": "04/2014 - 06/2019",
+      "description": "Mapeamento de processos. Análise de dados. Acompanhamento e aplicação de planos de ação com foco na qualidade. Planejamento e efetivação de projetos para estruturação dos cursos, inclusive resultados financeiros, com metas financeiras e de produção. Acompanhamento do processo de ensino aprendizagem junto à equipe docente definindo estratégias de avaliação e recuperação. Ações para sustentabilidade ambiental e social. Recrutamento e seleção de pessoas. Processo de imersão e treinamento de novos profissionais. Orientar, acompanhar e atuar e avaliar o trabalho do funcionário para alinhamento com os documentos norteadores para execução dos cursos dentro da missão, visão e valores da instituição. Identificar as necessidades e orientar o processo de desenvolvimento pessoal e profissional da equipe sob sua coordenação. Atuar como articulador e mediador para alinhamento de processos e informações com as equipes internas e externas. Atendimento ao cliente. Representante em ações de mídia e eventos. Coordenar equipes, praticando o modelo de liderança educadora e situacional. Planejar e acompanhar a execução orçamentária das áreas de negócio e assessorar a gerência nesse processo no âmbito da unidade. Coordenar a operacionalização dos programas vendidos pelo atendimento corporativo."
+    },
+    {
+      "nome": "Docente de Tecnologia da Informação / SENAC São Paulo ",
+      "period": "06/2004 - 04/2014",
+      "description": "Ministrar aulas em urso técnicos de nível médio, qualificações profissionais e curso de aperfeiçoamento desenvolvendo os conteúdos de Lógica de Programação, Modelagem de Dados, Banco de Dados, Linguagem de Programação, Gerência e Segurança de Redes, Tecnologia e Infraestrutura, Protocolos de redes, Marketing na Web, Estrutura Organizacional e Projetos, Pacote Office, Ética e Empreendedorismo. Realizar planejamento coletivo de aulas junto com outros docentes e alunos. Orientar o trabalho por projetos da forma que eles sejam propostos pelos alunos e promovam a experimentação sobre algo real, alinhando as necessidades pedagógicas e dos planos de cursos, valorizando a criatividade e a investigação no ambiente educacional, envolvendo a área técnica, gerentes e a área administrativa nas ações educacionais práticas e teóricas, trabalhando em sala de aula com auto avaliação, avaliação individual e em grupo dos alunos. Participar de reuniões pedagógicas e de equipes. Reservar salas e laboratórios. Solicitar equipamentos. Realizar fechamento de diário de classe. Acompanhar e verificar registros escolares (diários). Acompanhar possíveis visitas externas. Realizar outras atividades inerentes à função."
+    },
+    {
+      "nome": "CEO / Atual Tecnologia - Gestão em T.I. ",
+      "period": "04/2004 - 12/2017",
+      "description": "Análise e levantamento de requisitos e funcionalidades para composição de softwares dos mais variados segmentos. Priorização dos itens que deveriam ser desenvolvidos e que agregariam mais valor ao dia-a-dia das empresas e dos seus usuários. Desenvolvimento de softwares utilizando banco de dados Firebird/PostgreSql e ferramenta Borland Delphi 7/2005 para várias áreas de Negócios, como Gestão Escolar, Incorporadoras Imobiliárias, Construtoras, Livrarias, Controles Financeiros e Administrativos, NF-e, NFS-e, Gestão de Protocolos, Controles de Arquivos, Livro Caixa Rural, entre outros. Consultoria na área de soluções em softwares, infraestrutura de redes e hardware e web. Treinamento de pessoal para utilização de softwares. Outsorcing para suporte, assistência técnica e infraestrutura de Departamentos de Tecnologia da Informação."
+    },
+    {
+      "nome": "Professor de Ensino Superior / FAJAB ",
+      "period": "03/2007 - 06/2013",
+      "description": "Ministrar aulas para as turmas do curso de graduação em Administração de Empresas com as competências de Informática Básica, Sistemas de Informação Gerencial e Gestão de Negócios na Internet."
+    },
+    {
+      "nome": "Software Developer / NetProjects - Network & Dababase Solution ",
+      "period": "02/2004 - 12/2005",
+      "description": "Desenvolvimento e manutenção de Sistema de Saúde Pública utilizando banco de dados SQL Server 2000 e ferramenta de desenvolvimento Delphi 7. Desenvolvimento e manutenção de Sistema de controle financeiro e controle de notas fiscais utilizando como banco de dados Firebird e ferramenta de desenvolvimento Delphi 7."
+    },
+    {
+      "nome": "Software Developer / Consinco ",
+      "period": "02/2002 - 02/2004",
+      "description": "Desenvolvimento e Manutenção de Sistema de Gestão no módulo de Concessionárias de Automóveis (Sistema Cockpit), Empresas de Consórcios (Sistema Pleno) e DataWareHouse(Def) através das ferramentas Centura Builder e PL/SQL, utilizando Banco de Dados ORACLE."
     }
   ]
 }
