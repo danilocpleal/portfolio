@@ -58,6 +58,10 @@
       {
         "nome": "Jira",
         "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/jira.png"
+      },
+      {
+        "nome": "Windows",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/windows.png"
       }
     ],
     "softSkills": [
