@@ -116,4 +116,5 @@ function updateCourses(profileData){
     updateProfessionalExperience(profileData)
     updateAcademicEducation(profileData)
     updateCertifications(profileData)
+    updateCourses(profileData)
 })()
