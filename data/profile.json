@@ -84,18 +84,18 @@
       "Capacidade para lidar com as exigências e pressões apresentadas"
     ]
   },
-  "idiomas": [
+  "languages": [
     {
       "nome": "Português",
-      "nivel": "Nativo"
+      "nivel": "(Nativo)"
     },
     {
       "nome": "Inglês",
-      "nivel": "Intermediário"
+      "nivel": "(Intermediário)"
     },
     {
       "nome": "Espanhol",
-      "nivel": "Básico"
+      "nivel": "(Básico)"
     }
   ],
   "educacao": [
