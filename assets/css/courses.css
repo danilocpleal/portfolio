@@ -1,0 +1,29 @@
+.courses {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;    
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.courses li {
+    margin-bottom: .5rem;
+}
+
+.courses li .period {
+    display: flex;
+    flex-direction: row;
+}
+
+.courses li .period::before {
+    content: "";    
+    display: inline-block;    
+    width: 1rem;
+    height: 1rem;     
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('/assets/imagens/icons/calendar.svg');
+    margin-right: 0.5rem;
+}

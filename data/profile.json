@@ -218,5 +218,15 @@
       "period": "02/2002 - 02/2004",
       "description": "Desenvolvimento e Manutenção de Sistema de Gestão no módulo de Concessionárias de Automóveis (Sistema Cockpit), Empresas de Consórcios (Sistema Pleno) e DataWareHouse(Def) através das ferramentas Centura Builder e PL/SQL, utilizando Banco de Dados ORACLE."
     }
+  ],  
+  "courses": [
+    {
+      "nome": "Formação em Product Owner / Lean Iron",
+      "period": "07/2022"
+    },
+    {
+      "nome": "Formação em Gestão de Produtos / Alura",
+      "period": "06/2022"
+    }
   ]
 }

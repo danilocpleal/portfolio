@@ -1,6 +1,5 @@
 
 function updateProfileInfo(profileData) {
-    debugger
     const photo = document.getElementById('profile.photo')
     photo.src = profileData.photo 
     photo.alt = profileData.nome        
@@ -92,6 +91,19 @@ function updateCertifications(profileData){
         </li>
         `
     }).join('')    
+}
+
+function updateCourses(profileData){
+    const courses = document.getElementById('profile.courses');
+
+    courses.innerHTML = profileData.courses.map(cursos => {
+        return `
+         <li> 
+            <h3 class="title">${cursos.nome}</h3>
+            <p class="period">${cursos.period}</p>
+        </li>
+        `
+    }).join('')
 }
 
 (async () => {
