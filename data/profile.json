@@ -62,6 +62,10 @@
       {
         "nome": "Windows",
         "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/windows.png"
+      },
+      {
+        "nome": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/typescript.png"
       }
     ],
     "softSkills": [
