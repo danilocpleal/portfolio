@@ -9,51 +9,51 @@
     "hardSkills": [
       {
         "nome": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/main/Portfolio/data/imgs/nodejs.png"
       },
       {
         "nome": "CSS",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/main/Portfolio/data/imgs/css.png"
       },
       {
         "nome": "CSharp",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/csharp.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/main/Portfolio/data/imgs/csharp.png"
       },
       {
         "nome": ".NET",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/donet.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/main/Portfolio/data/imgs/donet.png"
       },
       {
         "nome": "GitHub",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/main/Portfolio/data/imgs/github.png"
       },
       {
         "nome": "Html5",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/main/Portfolio/data/imgs/html.png"
       },
       {
         "nome": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/main/Portfolio/data/imgs/js.png"
       },
       {
         "nome": "MySQL",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/main/Portfolio/data/imgs/mysql.png"
       },
       {
         "nome": "Oracle",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/oracle.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/main/Portfolio/data/imgs/oracle.png"
       },
       {
         "nome": "Delphi",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/delphi.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/main/Portfolio/data/imgs/delphi.png"
       },
       {
         "nome": "SqlServer",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/sql-server.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/main/Portfolio/data/imgs/sql-server.png"
       },
       {
         "nome": "Firebird",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/firebird.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/main/Portfolio/data/imgs/firebird.png"
       }
     ],
     "softSkills": [
