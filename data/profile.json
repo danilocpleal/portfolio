@@ -153,6 +153,12 @@
       "url": "https://github.com/danilocpleal/js-developer-pokedex",
       "certificado": "https://www.dio.me/certificate/D6ETRXY0",
       "github": true
+    },
+    {
+      "nome": "Meu GitHub",
+      "url": "https://github.com/danilocpleal?tab=repositories",
+      "certificado": "",
+      "github": true
     }
   ],
   "professionalExperience": [
