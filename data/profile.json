@@ -152,21 +152,21 @@
   "portfolio": [
     {
       "nome": "Criando o seu Portfólio - Curso DIO",
-      "gitHub": "https://github.com/danilocpleal/portfolio",
+      "url": "https://github.com/danilocpleal/portfolio",
       "certificado": "",
-      "git": true
+      "github": true
     },
     {
       "nome": "Criando uma homepage com CSS, HTML5 e JavaScript - Spiderman Multiverso - Curso DIO",
-      "gitHub": "https://github.com/danilocpleal/spider-man-dio-multiverso",
+      "url": "https://github.com/danilocpleal/spider-man-dio-multiverso",
       "certificado": "https://www.dio.me/certificate/6LJJ5ZV1",
-      "git": true
+      "github": true
     },
     {
       "nome": "Criando uma POKEDEX com JavaScript - Curso DIO",
-      "gitHub": "https://github.com/danilocpleal/js-developer-pokedex",
+      "url": "https://github.com/danilocpleal/js-developer-pokedex",
       "certificado": "https://www.dio.me/certificate/D6ETRXY0",
-      "git": true
+      "github": true
     }
   ],
   "experiencias": [
