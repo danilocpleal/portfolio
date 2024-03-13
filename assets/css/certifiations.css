@@ -1,7 +1,12 @@
-.academic ul {
+.certifications {
+    display: flex;
+    flex-direction: column;
+}
+
+.certifications ul {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
     flex-wrap: wrap;    
     margin: 0;
@@ -9,16 +14,7 @@
     list-style: none;
 }
 
-.academic li a img {
-    max-width: 50px;
+.certifications ul li img {
+    max-width: 80px;
     margin: .5rem;
 }
-
-/* @media screen and (min-width: 765px) {
-
-    .academic {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-    }   
-} */
-
