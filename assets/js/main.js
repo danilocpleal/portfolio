@@ -1,13 +1,14 @@
 
 function updateProfileInfo(profileData) {
+    debugger
     const photo = document.getElementById('profile.photo')
     photo.src = profileData.photo 
-    photo.alt = profileData.name 
+    photo.alt = profileData.nome        
 
     const nome = document.getElementById('profile.name')
     nome.innerText = profileData.nome
-
-
+    nome.href = profileData.linkedin 
+    
     const job = document.getElementById('profile.job')
     job.innerText = profileData.job
 
