@@ -1,0 +1,168 @@
+{
+  "nome": "Danilo Cesar P. Leal",
+  "photo": "https://avatars.githubusercontent.com/u/148340786?v=4",
+  "job": "Sênior Developer na TOTVS",
+  "location": "Jaboticabal - São Paulo - Brasil",
+  "phone": "(16) 9 9961-3196",
+  "mail": "dcpleal@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "nome": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/nodejs.png"
+      },
+      {
+        "nome": "CSS",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/css.png"
+      },
+      {
+        "nome": "CSharp",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/csharp.png"
+      },
+      {
+        "nome": ".NET",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/donet.png"
+      },
+      {
+        "nome": "GitHub",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/github.png"
+      },
+      {
+        "nome": "Html5",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/html.png"
+      },
+      {
+        "nome": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/js.png"
+      },
+      {
+        "nome": "MySQL",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/mysql.png"
+      },
+      {
+        "nome": "Oracle",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/oracle.png"
+      },
+      {
+        "nome": "Delphi",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/delphi.png"
+      },
+      {
+        "nome": "SqlServer",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/sql-server.png"
+      },
+      {
+        "nome": "Firebird",
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/firebird.png"
+      }
+    ],
+    "softSkills": [
+      "Colaborativo",
+      "Empatia",
+      "Liderança",
+      "Mediação e resolução de conflitos",
+      "Trabalho em equipe",
+      "Organização e planejamento do trabalho",
+      "Orientação para o cliente",
+      "Visão de mercado",
+      "Visão sistêmica e estratégica",
+      "Capacidade analítica dos fatos",
+      "Espírito empreendedor",
+      "Flexibilidade",
+      "Capacidade para lidar com as exigências e pressões apresentadas"
+    ]
+  },
+  "idiomas": [
+    {
+      "nome": "Português",
+      "nivel": "Nativo"
+    },
+    {
+      "nome": "Inglês",
+      "nivel": "Intermediário"
+    }
+  ],
+  "educacao": [
+    {
+      "nome": "dio.me",
+      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
+      "instituicao": "Digital Innovation One (DIO)",
+      "periodo": {
+        "inicio": "2019",
+        "fim": "Atualmente"
+      },
+      "certificados": [
+        {
+          "nome": "Formação: Blockchain Specialist (25h)",
+          "link": "https://www.dio.me/certificate/28601B02"
+        },
+        {
+          "nome": "Curso: Desenvolvimento Mobile Nativo Para Android",
+          "link": "https://www.dio.me/certificate/07041B99"
+        },
+        {
+          "nome": "Curso: Componentes, Layouts e UI/UX Em Apps Android",
+          "link": "https://www.dio.me/certificate/F12AC30B"
+        },
+        {
+          "nome": "Curso: Java e Kotlin Juntos!? Construindo Apps Android",
+          "link": "https://www.dio.me/certificate/3FB20BF1"
+        },
+        {
+          "nome": "Curso: Explorando o Firebase Para Apps Android Resiliente",
+          "link": "https://www.dio.me/certificate/BA099F34"
+        }
+      ]
+    },
+    {
+      "nome": "Doutorado em Engenharia de Software",
+      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
+      "instituicao": "Universidade de São Paulo (USP)",
+      "periodo": {
+        "inicio": "2018",
+        "fim": "Atualmente"
+      }
+    },
+    {
+      "nome": "Mestrado em Engenharia de Software",
+      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
+      "instituicao": "Universidade de São Paulo (USP)",
+      "periodo": {
+        "inicio": "2012",
+        "fim": "2015"
+      }
+    },
+    {
+      "nome": "Bacharelado em Engenharia de Computação",
+      "descricao": "",
+      "instituicao": "Universidade de Araraquara (UNIARA)",
+      "periodo": {
+        "inicio": "2007",
+        "fim": "2011"
+      }
+    }
+  ],
+  "portfolio": [
+    {
+      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
+      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
+      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+    },
+    {
+      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
+      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
+      "certificado": "https://www.dio.me/certificate/9A5090FC"
+    }
+  ],
+  "experiencias": [
+    {
+      "nome": "Sênior Developer Desktop ",
+      "descricao": "Atuo como analista desenvolvedor sênior no Segmento Supermercados para os produtos da família Consinco, utilizando ferramenta de Desenvolvimento OpenText (Centura Builder) e banco de dados Oracle. Compor a equipe de projetos, utilizando a metodologia Scrum/Kanban para análise de viabilidade e acompanhamento do desenvolvimento de novas rotinas e soluções para os softwares citados acima. Atuar como PO Proxy em auxílio ao PO da squad, auxiliando na organização e priorização do backlog, contato e negociação com clientes, auxílio e liderança nas demandas junto à equipe.",
+      "instituicao": "TOTVS",
+      "periodo": {
+        "inicio": "11/2021",
+        "fim": "Atualmente"
+      }
+    }
+  ]
+}

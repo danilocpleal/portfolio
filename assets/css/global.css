@@ -1,0 +1,73 @@
+@import url(/assets/css/header.css);
+@import url(/assets/css/accordion.css);
+@import url(/assets/css/languages.css);
+@import url(/assets/css/portfolio.css);
+@import url(/assets/css/experiences.css);
+@import url(/assets/css/skills.css);
+
+* {
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif
+}
+
+@font-face {
+    font-family: 'Neue Machina';
+    src: url('/assets/fonts/neue-machina-regular.otf');
+}
+
+body {
+   background-color: #000;
+   color: #fff; 
+   align-content: center;
+}
+
+.main {
+    margin: 1rem;
+    padding: .5rem;
+    padding-bottom: 1.15rem;
+    border: 1px solid gray;
+    border-radius: 1rem;
+    justify-content: center;    
+}
+
+.main::before {
+    content: '';
+    background-image: url('/assets/imagens/background.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.main::after {
+    content: '';
+    background-image: url('/assets/imagens/background.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    display: inline-block;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    transform: rotate(180deg);
+}
+
+@media screen and (min-width: 765px) {
+
+    .main {
+        max-width: 1024px;
+        margin: 1rem auto;
+    }
+
+    .main::before,
+    .main::after {
+        width: 70vw;
+    }    
+}

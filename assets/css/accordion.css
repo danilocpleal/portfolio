@@ -1,0 +1,67 @@
+.accordion {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 1.5rem 0;
+    border: 1px solid #fff;    
+    border-radius: 1.5rem;    
+}
+
+.accordion.open,
+.accordion:hover {
+    background-color: #55569E;
+    border-color: #55569E;
+    transition: background-color 0.5s ease-in-out;
+}
+
+.accordion .button-accordion {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 1rem 2rem;
+    background-color: transparent;
+    color: #fff;
+    border: none;
+}
+
+.accordion .button-accordion h2 {
+    margin: 0;
+    font-size: 1.3rem;  
+    text-align: left;
+}
+
+.accordion .button-accordion:hover {
+    cursor: pointer;
+}
+
+.accordion .button-accordion::after {
+    content: "";
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.5rem; 
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('/assets/imagens/icons/arrow-top.svg');
+    transition: .5s;
+}
+
+.accordion.open .button-accordion::after {
+    transform: rotate(180deg);
+}
+
+.accordion .accordion-content {
+    overflow: hidden;
+    height: 0;
+    opacity: 0;
+    transition: opacity .75s ease-in-out;
+}
+
+.accordion.open .accordion-content {
+    display: block;
+    padding: 0 1rem 1rem 2rem;
+    height: auto;
+    opacity: 1;     
+ }
