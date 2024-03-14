@@ -35,7 +35,7 @@ body {
 
 .main::before {
     content: '';
-    background-image: url('/assets/imagens/background.svg');
+    background-image: url('../imagens/background.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
@@ -49,7 +49,7 @@ body {
 
 .main::after {
     content: '';
-    background-image: url('/assets/imagens/background.svg');
+    background-image: url('../imagens/background.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
