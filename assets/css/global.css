@@ -1,12 +1,12 @@
-@import url(assets/css/header.css);
-@import url(assets/css/accordion.css);
-@import url(assets/css/languages.css);
-@import url(assets/css/portfolio.css);
-@import url(assets/css/experiences.css);
-@import url(assets/css/skills.css);
-@import url(assets/css/academic.css);
-@import url(assets/css/certifiations.css);
-@import url(assets/css/courses.css);
+@import url(/assets/css/header.css);
+@import url(/assets/css/accordion.css);
+@import url(/assets/css/languages.css);
+@import url(/assets/css/portfolio.css);
+@import url(/assets/css/experiences.css);
+@import url(/assets/css/skills.css);
+@import url(/assets/css/academic.css);
+@import url(/assets/css/certifiations.css);
+@import url(/assets/css/courses.css);
 
 * {
     box-sizing: border-box;
@@ -15,7 +15,7 @@
 
 @font-face {
     font-family: 'Neue Machina';
-    src: url('assets/fonts/neue-machina-regular.otf');
+    src: url('/assets/fonts/neue-machina-regular.otf');
 }
 
 body {
@@ -35,7 +35,7 @@ body {
 
 .main::before {
     content: '';
-    background-image: url('assets/imagens/background.svg');
+    background-image: url('/assets/imagens/background.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
@@ -49,7 +49,7 @@ body {
 
 .main::after {
     content: '';
-    background-image: url('assets/imagens/background.svg');
+    background-image: url('/assets/imagens/background.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
