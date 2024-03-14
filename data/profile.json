@@ -221,6 +221,14 @@
   ],  
   "courses": [
     {
+      "nome": "Formação JavaScript Developer / DIO.me",
+      "period": "03/2024"
+    },
+    {
+      "nome": "Decola Tech 2024 / DIO.me",
+      "period": "12/2023"
+    },
+    {
       "nome": "Formação em Product Owner / Lean Iron",
       "period": "07/2022"
     },
