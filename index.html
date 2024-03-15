@@ -13,29 +13,16 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@400,700&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="assets/fonts/neue-machina-regular.otf">
+    <link rel="stylesheet" href="/assets/fonts/neue-machina-regular.otf">
 
-    <link rel="stylesheet" href="assets/css/global.css">    
-    <link rel="stylesheet" href="assets/css/header.css">    
-    <link rel="stylesheet" href="assets/css/skills.css">    
-    <link rel="stylesheet" href="assets/css/academic.css">    
-    <link rel="stylesheet" href="assets/css/accordion.css">    
-    <link rel="stylesheet" href="assets/css/certifiations.css">    
-    <link rel="stylesheet" href="assets/css/courses.css">    
-    <link rel="stylesheet" href="assets/css/experiences.css">        
-    <link rel="stylesheet" href="assets/css/languages.css">    
-    <link rel="stylesheet" href="assets/css/portfolio.css"> 
-    <link rel="stylesheet" href="assets/css/footer.css"> 
+    <link rel="stylesheet" href="/assets/css/global.css">    
+   
 
 </head>
 <body>
     <div class="main">
         <header class="header"> 
-            <a href="https://www.linkedin.com/in/danilo-cpleal/" target="_blanck" class="linkedin">
-                <img src="assets/imagens/icons/linkedin.svg" alt="Linkedin" >
-            </a> 
-
-            <img class="photo" src="assets/imagens/sem-imagem.png" alt="Foto do perfil" id="profile.photo">
+            <img class="photo" src="/assets/imagens/sem-imagem.png" alt="Foto do perfil" id="profile.photo">
   
             <h1 class="title">
                 Olá, <br>eu sou <span id="profile.name">Loading...</span>
@@ -63,7 +50,20 @@
 
                     <section class="personal">
                         <h3>Habilidades pessoais</h3>
-                        <ul id="profile.skills.softSkills"></ul>
+                        <ul id="profile.skills.softSkills">
+                            <li>Colaborativo</li>
+                            <li>Liderança</li>
+                            <li>Mediação e resolução de conflitos</li>
+                            <li>Trabalho em equipe</li>
+                            <li>Organização e planejamento do trabalho</li>
+                            <li>Orientação para o cliente</li>
+                            <li>Visão de mercado</li>
+                            <li>Visão sistêmica e estratégica</li>
+                            <li>Capacidade analítica dos fatos</li>
+                            <li>Espírito empreendedor</li>
+                            <li>Flexível</li>
+                            <li>Capacidade para lidar com as exigências e pressões apresentadass</li>
+                        </ul>
                     </section>
                 </div>
                 
@@ -76,8 +76,9 @@
             </button>
 
             <div class="accordion-content">
-                <ul class="languages" id="profile.languages">
-                    <li>Loading...</li>
+                <ul class="languages">
+                    <li>Português</li>
+                    <li>Inglês</li>
                 </ul>              
             </div>
         </section>
@@ -88,41 +89,22 @@
             </button>
 
             <div class="accordion-content">
-                <ul class="portfolio" id="profile.portfolio"></ul>
+                <ul class="portfolio">
+                    <li>
+                        <h3 class="title github">Criando um lembrete</h3>
+                        <a href="http://www.google.com" target="_blank">www.google.com</a>
+                    </li>
+                    <li>
+                        <h3 class="title github">Criando um lembrete</h3>
+                        <a href="http://www.google.com" target="_blank">www.google.com</a>
+                    </li>
+                    <li>
+                        <h3 class="title github">Criando um lembrete</h3>
+                        <a href="http://www.google.com" target="_blank">www.google.com</a>
+                    </li>                                                         
+                </ul>
             </div>
         </section> 
-
-        <section class="accordion">
-            <button  class="button-accordion">                
-                <h2>Certificações</h2>
-            </button>
-
-            <div class="accordion-content">
-                <div class="certifications">
-                    <ul id="profile.certifications"></ul>                    
-                </div>                           
-            </div>
-        </section>       
-
-        <section class="accordion">
-            <button  class="button-accordion">                
-                <h2>Formação acadêmica</h2>
-            </button>
-
-            <div class="accordion-content">
-                <ul class="academic" id="profile.academicEducation"></ul>
-            </div>
-        </section> 
-
-        <section class="accordion">
-            <button  class="button-accordion">                
-                <h2>Cursos</h2>
-            </button>
-
-            <div class="accordion-content">
-                <ul class="courses" id="profile.courses"></ul>
-            </div>
-        </section>         
         
         <section class="accordion">
             <button  class="button-accordion">                
@@ -130,20 +112,175 @@
             </button>
 
             <div class="accordion-content">
-                <ul class="experience" id="profile.professionalExperience"></ul>
+                <ul class="experience">
+                    <li>
+                        <h3 class="title">Sênior Developer Desktop / TOTVS</h3>
+                        <p class="period">Nov 2021 - Atual</p>
+                        <p class="text">Atuo como analista desenvolvedor sênior no Segmento Supermercados para os produtos da família Consinco, 
+                           utilizando ferramenta de Desenvolvimento OpenText (Centura Builder) e banco de dados Oracle. Compor a equipe 
+                           de projetos, utilizando a metodologia Scrum/Kanban para análise de viabilidade e acompanhamento do desenvolvimento 
+                           de novas rotinas e soluções para os softwares citados acima. Atuar como PO Proxy em auxílio ao PO da squad, 
+                           auxiliando na organização e priorização do backlog, contato e negociação com clientes, auxílio e liderança nas 
+                           demandas junto à equipe.
+                        </p>
+                    </li>                                                        
+                </ul>
             </div>
-        </section>  
+        </section>
+
+
+        <!-- <header class="header"> 
+            <img class="photo" src="/assets/imagens/foto1.png" alt="Foto Danilo Cesar P. Leal">
+  
+            <h1 class="title">Olá, eu sou Danilo Cesar P. Leal</h1>
+            
+            <div class="information">
+                <p class="job">
+                    <a href="https://www.linkedin.com/in/danilo-cpleal/" target="_blank">Sênior Developer TOTVS</a>
+                </p>
+                <p class="local">Jaboticabal - São Paulo - BR</p>
+                <p class="phone">
+                    <a href="tel: (16) 9 99961-3196">(16) 9 99961-3196</a>
+                </p>
+                <p class="mail">
+                    <a href="mailto:dcpleal@gmail.com">dcpleal@gmail.com</a>
+                </p>                
+            </div>
+        </header>
+
+        <section class="accordion">
+            <button  class="button-accordion">                
+                <h2>Skills</h2>                
+            </button>
+
+            <div class="accordion-content">
+                <div class="skills">
+                    <section class="tools">
+                        <h3>Habilidades profissionais</h3>
+                        <ul>
+                            <li>
+                                <img src="/assets/imagens/icons/languages/nodejs.svg" alt="Nodejs" title="Nodejs">
+                            </li>
+                            <li>
+                                <img src="/assets/imagens/icons/languages/css.svg" alt="CSS" title="CSS">
+                            </li>
+                            <li>
+                                <img src="/assets/imagens/icons/languages/js.svg" alt="JavaScript" title="JavaScript">
+                            </li>                                                        
+                            <li>
+                                <img src="/assets/imagens/icons/languages/charp.svg" alt="C#" title="C#">
+                            </li>
+                            <li>
+                                <img src="/assets/imagens/icons/languages/html5.svg" alt="Html5" title="Html5">
+                            </li> 
+                            <li>
+                                <img src="/assets/imagens/icons/languages/github.svg" alt="GitHub" title="GitHub">
+                            </li>                             
+                            <li>
+                                <img src="/assets/imagens/icons/languages/mysql.svg" alt="MySQL" title="MySQL">
+                            </li>       
+                            <li>
+                                <img src="/assets/imagens/icons/languages/postgresql.svg" alt="PostgreSQL" title="PostgreSQL">
+                            </li> 
+                            <li>
+                                <img src="/assets/imagens/icons/languages/oracle.svg" alt="Oracle" title="Oracle">
+                            </li>                                                        
+                            <li>
+                                <img src="/assets/imagens/icons/languages/dotnet.svg" alt=".NET" title=".NET">
+                            </li>                             
+                            <li>
+                                <img src="/assets/imagens/icons/languages/typescript.svg" alt="TypeScript" title="TypeScript">
+                            </li>                                   
+                            <li>
+                                <img src="/assets/imagens/icons/languages/windows.svg" alt="Microsoft Windows" title="Microsoft Windows">
+                            </li>                                  
+                        </ul>
+                    </section>
+
+                    <section class="personal">
+                        <h3>Habilidades pessoais</h3>
+                        <ul>
+                            <li>Colaborativo</li>
+                            <li>Liderança</li>
+                            <li>Mediação e resolução de conflitos</li>
+                            <li>Resolução de problemas</li>
+                            <li>Organização e planejamento do trabalho</li>
+                            <li>Orientação para o cliente</li>
+                            <li>Visão de mercado</li>
+                            <li>Visão sistêmica e estratégica</li>
+                            <li>Capacidade analítica dos fatos</li>
+                            <li>Espírito empreendedor</li>
+                            <li>Flexível</li>
+                            <li>Capacidade para lidar com as exigências e pressões apresentadass</li>
+                        </ul>
+                    </section>
+                </div>
+                
+            </div>
+        </section>        
+
+        <section class="accordion">
+            <button  class="button-accordion">                
+                <h2>Idiomas</h2>                
+            </button>
+
+            <div class="accordion-content">
+                <ul class="languages">
+                    <li>Português</li>
+                    <li>Inglês</li>
+                </ul>              
+            </div>
+        </section>
+
+        <section class="accordion">
+            <button  class="button-accordion">                
+                <h2>Portfólio</h2>
+            </button>
+
+            <div class="accordion-content">
+                <ul class="portfolio">
+                    <li>
+                        <h3 class="title github">Criando um lembrete</h3>
+                        <a href="http://www.google.com" target="_blank">www.google.com</a>
+                    </li>
+                    <li>
+                        <h3 class="title github">Criando um lembrete</h3>
+                        <a href="http://www.google.com" target="_blank">www.google.com</a>
+                    </li>
+                    <li>
+                        <h3 class="title github">Criando um lembrete</h3>
+                        <a href="http://www.google.com" target="_blank">www.google.com</a>
+                    </li>                                                         
+                </ul>
+            </div>
+        </section> 
         
-        <footer class="footer">
-            <a href="https://www.dio.me/" target="_blanck">
-                <img src="assets/imagens/icons/dio.svg" alt="Dio.me" >
-            </a>            
-        </footer>
+        <section class="accordion">
+            <button  class="button-accordion">                
+                <h2>Experiências Profissionais</h2>              
+            </button>
+
+            <div class="accordion-content">
+                <ul class="experience">
+                    <li>
+                        <h3 class="title">Sênior Developer Desktop / TOTVS</h3>
+                        <p class="period">Nov 2021 - Atual</p>
+                        <p class="text">Atuo como analista desenvolvedor sênior no Segmento Supermercados para os produtos da família Consinco, 
+                           utilizando ferramenta de Desenvolvimento OpenText (Centura Builder) e banco de dados Oracle. Compor a equipe 
+                           de projetos, utilizando a metodologia Scrum/Kanban para análise de viabilidade e acompanhamento do desenvolvimento 
+                           de novas rotinas e soluções para os softwares citados acima. Atuar como PO Proxy em auxílio ao PO da squad, 
+                           auxiliando na organização e priorização do backlog, contato e negociação com clientes, auxílio e liderança nas 
+                           demandas junto à equipe.
+                        </p>
+                    </li>                                                        
+                </ul>
+            </div>
+        </section> -->
           
     </div> 
 
-    <script src="assets/js/accordion.js"></script>
-    <script src="assets/js/api.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="/assets/js/accordion.js"></script>
+    <script src="/assets/js/api.js"></script>
+    <script src="/assets/js/main.js"></script>
 </body>
 </html>

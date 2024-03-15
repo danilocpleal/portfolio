@@ -1,6 +1,5 @@
 {
   "nome": "Danilo Cesar P. Leal",
-  "linkedin": "https://www.linkedin.com/in/danilo-cpleal/",
   "photo": "https://avatars.githubusercontent.com/u/148340786?v=4",
   "job": "Sênior Developer na TOTVS",
   "location": "Jaboticabal - São Paulo - Brasil",
@@ -10,63 +9,51 @@
     "hardSkills": [
       {
         "nome": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/nodejs.png"                
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/nodejs.png"
       },
       {
         "nome": "CSS",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/css.png"
       },
       {
         "nome": "CSharp",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/csharp.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/csharp.png"
       },
       {
         "nome": ".NET",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/donet.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/donet.png"
       },
       {
         "nome": "GitHub",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/github.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/github.png"
       },
       {
         "nome": "Html5",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/html.png"
       },
       {
         "nome": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/js.png"
       },
       {
         "nome": "MySQL",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/mysql.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/mysql.png"
       },
       {
         "nome": "Oracle",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/oracle.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/oracle.png"
       },
       {
         "nome": "Delphi",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/delphi.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/delphi.png"
       },
       {
         "nome": "SqlServer",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/sql-server.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/sql-server.png"
       },
       {
         "nome": "Firebird",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/firebird.png"
-      },
-      {
-        "nome": "Jira",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/jira.png"
-      },
-      {
-        "nome": "Windows",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/windows.png"
-      },
-      {
-        "nome": "TypeScript",
-        "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/typescript.png"
+        "logo": "https://raw.githubusercontent.com/danilocpleal/projetos_gerais/main/Portfolio/data/imgs/firebird.png"
       }
     ],
     "softSkills": [
@@ -85,160 +72,97 @@
       "Capacidade para lidar com as exigências e pressões apresentadas"
     ]
   },
-  "languages": [
-    "Português (Nativo)",
-    "Inglês (Intermediário)",
-    "Espanhol (Básico)"
-  ],
-  "academicEducation": [
+  "idiomas": [
     {
-      "nome": "MBA em Gestão em Negócios / USP Esalq",
-      "period": "05/2022 - 01/2024"
+      "nome": "Português",
+      "nivel": "Nativo"
     },
     {
-      "nome": "Pós Graduação em Análise de Sistemas / UNAERP",
-      "period": "02/2002 - 06/2004 "
-    },
-    {
-      "nome": "Ciências da Computação / UNIP",
-      "period": "02/1998 - 12/2001"
-    }  
-  ],
-  "certifications": [
-    {
-      "nome": "PSM I",
-      "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/PSMI.png",
-      "url": "https://www.scrum.org/certificates/681255"
-    },
-    {
-      "nome": "PSPO I",
-      "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/PSPOI.png",
-      "url": "https://www.scrum.org/certificates/724400"
-    },
-    {
-      "nome": "PSK I",
-      "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/PSKI.png",
-      "url": "https://www.scrum.org/certificates/707276"
-    },
-    {
-      "nome": "KMP I / TKP ",
-      "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/TKP.png",
-      "url": "https://edu.kanban.university/users/danilo-cesar-pinto-leal"
-    },
-    {
-      "nome": "OKR",
-      "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/OKR.png",
-      "url": "https://www.credly.com/badges/f4ac39b1-8738-493d-803e-c61d517c44f4?source=linked_in_profile"
-    },
-    {
-      "nome": "Management 3.0 - Fundamentals Online Workshop ",
-      "logo": "https://raw.githubusercontent.com/danilocpleal/portfolio/main/data/imgs/MGMFund.png",
-      "url": "https://management30.com/badges/danilo-leal-408140042625d57186f785/"
+      "nome": "Inglês",
+      "nivel": "Intermediário"
     }
-  ],  
+  ],
+  "educacao": [
+    {
+      "nome": "dio.me",
+      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
+      "instituicao": "Digital Innovation One (DIO)",
+      "periodo": {
+        "inicio": "2019",
+        "fim": "Atualmente"
+      },
+      "certificados": [
+        {
+          "nome": "Formação: Blockchain Specialist (25h)",
+          "link": "https://www.dio.me/certificate/28601B02"
+        },
+        {
+          "nome": "Curso: Desenvolvimento Mobile Nativo Para Android",
+          "link": "https://www.dio.me/certificate/07041B99"
+        },
+        {
+          "nome": "Curso: Componentes, Layouts e UI/UX Em Apps Android",
+          "link": "https://www.dio.me/certificate/F12AC30B"
+        },
+        {
+          "nome": "Curso: Java e Kotlin Juntos!? Construindo Apps Android",
+          "link": "https://www.dio.me/certificate/3FB20BF1"
+        },
+        {
+          "nome": "Curso: Explorando o Firebase Para Apps Android Resiliente",
+          "link": "https://www.dio.me/certificate/BA099F34"
+        }
+      ]
+    },
+    {
+      "nome": "Doutorado em Engenharia de Software",
+      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
+      "instituicao": "Universidade de São Paulo (USP)",
+      "periodo": {
+        "inicio": "2018",
+        "fim": "Atualmente"
+      }
+    },
+    {
+      "nome": "Mestrado em Engenharia de Software",
+      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
+      "instituicao": "Universidade de São Paulo (USP)",
+      "periodo": {
+        "inicio": "2012",
+        "fim": "2015"
+      }
+    },
+    {
+      "nome": "Bacharelado em Engenharia de Computação",
+      "descricao": "",
+      "instituicao": "Universidade de Araraquara (UNIARA)",
+      "periodo": {
+        "inicio": "2007",
+        "fim": "2011"
+      }
+    }
+  ],
   "portfolio": [
     {
-      "nome": "Criando o seu Portfólio - Curso DIO",
-      "url": "https://github.com/danilocpleal/portfolio",
-      "certificado": "",
-      "github": true
+      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
+      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
+      "certificado": "https://www.dio.me/certificate/34F1FBA1"
     },
     {
-      "nome": "Criando um site com CSS, HTML5 e JavaScript - Spiderman Multiverso - Curso DIO",
-      "url": "https://github.com/danilocpleal/spider-man-dio-multiverso",
-      "certificado": "https://www.dio.me/certificate/6LJJ5ZV1",
-      "github": true
-    },
-    {
-      "nome": "Criando uma POKEDEX com JavaScript - Curso DIO",
-      "url": "https://github.com/danilocpleal/js-developer-pokedex",
-      "certificado": "https://www.dio.me/certificate/D6ETRXY0",
-      "github": true
-    },
-    {
-      "nome": "Meu GitHub",
-      "url": "https://github.com/danilocpleal?tab=repositories",
-      "certificado": "",
-      "github": true
+      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
+      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
+      "certificado": "https://www.dio.me/certificate/9A5090FC"
     }
   ],
-  "professionalExperience": [
+  "experiencias": [
     {
-      "nome": "Software Developer Sênior / TOTVS ",
-      "period": "11/2021 - até o momento",
-      "description": "Atuo como analista desenvolvedor sênior no Segmento Supermercados para os produtos da família Consinco, utilizando ferramenta de Desenvolvimento OpenText (Centura Builder) e banco de dados Oracle. Compor a equipe de projetos, utilizando a metodologia Scrum/Kanban para análise de viabilidade e acompanhamento do desenvolvimento de novas rotinas e soluções para os softwares citados acima. Atuar como PO Proxy em auxílio ao PO da squad, auxiliando na organização e priorização do backlog, contato e negociação com clientes, auxílio e liderança nas demandas junto à equipe."
-    },
-    {
-      "nome": "Coordenador de conversões / Siplan ",
-      "period": "04/2021 - 11/2021",
-      "description": "Reestruturar e organizar os processos e atividades desempenhadas pela equipe de conversões. Realizar feedback à equipe de forma constante. Promover a metodologia de Gestão Ágil SCRUM. Realizar os eventos e artefatos pertinentes a metodologia SCRUM. Acompanhar e analisar o resultado das conversões com possíveis problema."
-    },
-    {
-      "nome": "Software Developer Sênior Desktop / Siplan ",
-      "period": "07/2020 - 11/2021",
-      "description": "Atuar como analista desenvolvedor para softwares voltados para a gestão de Cartórios de Registro de Imóveis, Tabelionato de Notas e Pessoas Jurídicas, utilizando ferramenta de Desenvolvimento Delphi 7 e banco de dados Firebird. Compor a equipe de sustentação, onde o foco é a resolução de problemas em curto tempo de análise e desenvolvimento para os clientes dos softwares citados acima. Compor a equipe de projetos, utilizando a metodologia Scrum para análise de viabilidade e acompanhamento do desenvolvimento de novas rotinas e soluções para os softwares citados acima."
-    },
-    {
-      "nome": "Tech Lead / Siplan ",
-      "period": "05/2020 - 11/2021",
-      "description": "Orientar a equipe de desenvolvedores quais as melhores e quais os possíveis problemas devem ser corrigidos nos produtos, baseado nos chamados abertos no software 0800Net. Realizar feedback à equipe de forma constante. Promover e executar a metodologia de Gestão Ágil SCRUM em parceria com o Product Owner. Acompanhar e analisar os chamados realizados pelos clientes no software 0800Net. Analisar, priorizar e ordenar junto ao Product Owner dos produtos Registros de Imóveis / Títulos e Documentos quais deverão ser os itens que comporão os Backlogs Sprint. Participar das reuniões semanais com os diretores para acompanhamento dos produtos. Responsável pelo Wiki (Blog de documentação dos produtos). Responsável pela análise de qualidade de códigos enviado pelo SONAR Cube."
-    },
-    {
-      "nome": "Software Developer Pleno Desktop / Siplan ",
-      "period": "07/2019 - 05/2020",
-      "description": "Atuar como analista desenvolvedor para softwares voltados para a gestão de Cartórios de Registro de Imóveis, Tabelionato de Notas e Pessoas Jurídicas, utilizando ferramenta de Desenvolvimento Delphi 7 e banco de dados Firebird."
-    },
-    {
-      "nome": "Coordenador de Soluções Educacionais / SENAC São Paulo ",
-      "period": "04/2014 - 06/2019",
-      "description": "Mapeamento de processos. Análise de dados. Acompanhamento e aplicação de planos de ação com foco na qualidade. Planejamento e efetivação de projetos para estruturação dos cursos, inclusive resultados financeiros, com metas financeiras e de produção. Acompanhamento do processo de ensino aprendizagem junto à equipe docente definindo estratégias de avaliação e recuperação. Ações para sustentabilidade ambiental e social. Recrutamento e seleção de pessoas. Processo de imersão e treinamento de novos profissionais. Orientar, acompanhar e atuar e avaliar o trabalho do funcionário para alinhamento com os documentos norteadores para execução dos cursos dentro da missão, visão e valores da instituição. Identificar as necessidades e orientar o processo de desenvolvimento pessoal e profissional da equipe sob sua coordenação. Atuar como articulador e mediador para alinhamento de processos e informações com as equipes internas e externas. Atendimento ao cliente. Representante em ações de mídia e eventos. Coordenar equipes, praticando o modelo de liderança educadora e situacional. Planejar e acompanhar a execução orçamentária das áreas de negócio e assessorar a gerência nesse processo no âmbito da unidade. Coordenar a operacionalização dos programas vendidos pelo atendimento corporativo."
-    },
-    {
-      "nome": "Docente de Tecnologia da Informação / SENAC São Paulo ",
-      "period": "06/2004 - 04/2014",
-      "description": "Ministrar aulas em urso técnicos de nível médio, qualificações profissionais e curso de aperfeiçoamento desenvolvendo os conteúdos de Lógica de Programação, Modelagem de Dados, Banco de Dados, Linguagem de Programação, Gerência e Segurança de Redes, Tecnologia e Infraestrutura, Protocolos de redes, Marketing na Web, Estrutura Organizacional e Projetos, Pacote Office, Ética e Empreendedorismo. Realizar planejamento coletivo de aulas junto com outros docentes e alunos. Orientar o trabalho por projetos da forma que eles sejam propostos pelos alunos e promovam a experimentação sobre algo real, alinhando as necessidades pedagógicas e dos planos de cursos, valorizando a criatividade e a investigação no ambiente educacional, envolvendo a área técnica, gerentes e a área administrativa nas ações educacionais práticas e teóricas, trabalhando em sala de aula com auto avaliação, avaliação individual e em grupo dos alunos. Participar de reuniões pedagógicas e de equipes. Reservar salas e laboratórios. Solicitar equipamentos. Realizar fechamento de diário de classe. Acompanhar e verificar registros escolares (diários). Acompanhar possíveis visitas externas. Realizar outras atividades inerentes à função."
-    },
-    {
-      "nome": "CEO / Atual Tecnologia - Gestão em T.I. ",
-      "period": "04/2004 - 12/2017",
-      "description": "Análise e levantamento de requisitos e funcionalidades para composição de softwares dos mais variados segmentos. Priorização dos itens que deveriam ser desenvolvidos e que agregariam mais valor ao dia-a-dia das empresas e dos seus usuários. Desenvolvimento de softwares utilizando banco de dados Firebird/PostgreSql e ferramenta Borland Delphi 7/2005 para várias áreas de Negócios, como Gestão Escolar, Incorporadoras Imobiliárias, Construtoras, Livrarias, Controles Financeiros e Administrativos, NF-e, NFS-e, Gestão de Protocolos, Controles de Arquivos, Livro Caixa Rural, entre outros. Consultoria na área de soluções em softwares, infraestrutura de redes e hardware e web. Treinamento de pessoal para utilização de softwares. Outsorcing para suporte, assistência técnica e infraestrutura de Departamentos de Tecnologia da Informação."
-    },
-    {
-      "nome": "Professor de Ensino Superior / FAJAB ",
-      "period": "03/2007 - 06/2013",
-      "description": "Ministrar aulas para as turmas do curso de graduação em Administração de Empresas com as competências de Informática Básica, Sistemas de Informação Gerencial e Gestão de Negócios na Internet."
-    },
-    {
-      "nome": "Software Developer / NetProjects - Network & Dababase Solution ",
-      "period": "02/2004 - 12/2005",
-      "description": "Desenvolvimento e manutenção de Sistema de Saúde Pública utilizando banco de dados SQL Server 2000 e ferramenta de desenvolvimento Delphi 7. Desenvolvimento e manutenção de Sistema de controle financeiro e controle de notas fiscais utilizando como banco de dados Firebird e ferramenta de desenvolvimento Delphi 7."
-    },
-    {
-      "nome": "Software Developer / Consinco ",
-      "period": "02/2002 - 02/2004",
-      "description": "Desenvolvimento e Manutenção de Sistema de Gestão no módulo de Concessionárias de Automóveis (Sistema Cockpit), Empresas de Consórcios (Sistema Pleno) e DataWareHouse(Def) através das ferramentas Centura Builder e PL/SQL, utilizando Banco de Dados ORACLE."
-    }
-  ],  
-  "courses": [
-    {
-      "nome": "Formação JavaScript Developer / DIO.me",
-      "period": "03/2024"
-    },
-    {
-      "nome": "Decola Tech 2024 / DIO.me",
-      "period": "12/2023"
-    },
-    {
-      "nome": "Tech Lead Program / IFLT",
-      "period": "09/2023"
-    },
-    {
-      "nome": "Formação em Product Owner / Lean Iron",
-      "period": "07/2022"
-    },
-    {
-      "nome": "Formação em Gestão de Produtos / Alura",
-      "period": "06/2022"
+      "nome": "Sênior Developer Desktop ",
+      "descricao": "Atuo como analista desenvolvedor sênior no Segmento Supermercados para os produtos da família Consinco, utilizando ferramenta de Desenvolvimento OpenText (Centura Builder) e banco de dados Oracle. Compor a equipe de projetos, utilizando a metodologia Scrum/Kanban para análise de viabilidade e acompanhamento do desenvolvimento de novas rotinas e soluções para os softwares citados acima. Atuar como PO Proxy em auxílio ao PO da squad, auxiliando na organização e priorização do backlog, contato e negociação com clientes, auxílio e liderança nas demandas junto à equipe.",
+      "instituicao": "TOTVS",
+      "periodo": {
+        "inicio": "11/2021",
+        "fim": "Atualmente"
+      }
     }
   ]
 }
