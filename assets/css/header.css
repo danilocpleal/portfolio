@@ -3,6 +3,17 @@
     flex-direction: column;    
     align-items: center;
     padding-top: 20px;
+    position: relative;
+}
+
+.header .linkedin {
+    content: ''; 
+    display: inline-block;
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    width: 3rem;
+    height: 3rem;    
 }
 
 .header .photo {
@@ -50,19 +61,19 @@
 }
 
 .information .job::before {
-    background-image: url('/assets/imagens/icons/job.svg');
+    background-image: url('../imagens/icons/job.svg');
 }
 
 .information .local::before {
-    background-image: url('/assets/imagens/icons/local.svg');
+    background-image: url('../imagens/icons/local.svg');
 }
 
 .information .mail::before {
-    background-image: url('/assets/imagens/icons/mail.svg');
+    background-image: url('../imagens/icons/mail.svg');
 }
 
 .information .phone::before {
-    background-image: url('/assets/imagens/icons/phone.svg');
+    background-image: url('../imagens/icons/phone.svg');
 }
 
 @media screen and (min-width: 765px) {
