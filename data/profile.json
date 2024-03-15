@@ -2,7 +2,7 @@
   "nome": "Danilo Cesar P. Leal",
   "linkedin": "https://www.linkedin.com/in/danilo-cpleal/",
   "photo": "https://avatars.githubusercontent.com/u/148340786?v=4",
-  "job": "Sênior Developer na TOTVS",
+  "job": "Developer Software Sênior na TOTVS",
   "location": "Jaboticabal - São Paulo - Brasil",
   "phone": "(16) 9 9961-3196",
   "mail": "dcpleal@gmail.com",
@@ -137,6 +137,12 @@
     }
   ],  
   "portfolio": [
+    {
+      "nome": "Site de jogos com interação de voz - Curso DIO",
+      "url": "https://github.com/danilocpleal/javascript-teste-voz",
+      "certificado": "",
+      "github": true
+    },
     {
       "nome": "Criando o seu Portfólio - Curso DIO",
       "url": "https://github.com/danilocpleal/portfolio",
